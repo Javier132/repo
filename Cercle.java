@@ -37,7 +37,7 @@ public void setY(float y)
     y=y;
 }
 public float getX()
-{
+{ 
     return x;
 }
 public float getY()
